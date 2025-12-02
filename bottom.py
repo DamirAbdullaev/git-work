@@ -1,1 +1,2 @@
 print("bottom")
+print("bottom")
